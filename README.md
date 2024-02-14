@@ -57,3 +57,7 @@ The coefficients in a linear regression model represent the weights assigned to 
 7.	Odometer: For every mile increase in odometer reading, the price decreases by about $0.02.
 8.	Transmission: Most of the data had automatic transmission, which will also influence the price of the car. 
 9.	Drive type of rwd leads to a decrease in price of around $16.47.
+
+
+PS: The HTML representation is unable to render in the github, please try this link to view the Jupyter notebook.
+https://nbviewer.org/github/shailendra-mlai/What-Drives-the-Price-of-a-Car/blob/main/Shailendra-Practical-App-2.ipynb
